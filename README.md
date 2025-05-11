@@ -9,7 +9,10 @@ I'm passionate about creating impactful tech solutions, mentoring aspiring devel
 - 🛡️ **Founder & Managing Director @SentinelGuard AI**  
 - 🌐 **Building with Next.js, Go Fiber, Express.js, Zustand, and more**  
 - 🔐 **Cybersecurity & AI Researcher**  
-- 💡 **Conducting Tech Sessions on Frontend, Next.js & Cybersecurity**  
+- 💡 **Conducting Tech Sessions on Frontend, Next.js & Cybersecurity**
+-  **Finished Top 10 in a ML Hackathon conducting by IIT Kanpur**
+-  **Contributed in making hackportal for one of India's biggest hackathons - DevSoc'25**  
+
 
 ## 🛠️ Tech Stack  
 **Frontend:** Next.js, React, Zustand, TailwindCSS, ShadCN, Framer Motion  
